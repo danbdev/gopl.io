@@ -1,0 +1,4 @@
+# golang.org/x/net v0.0.0-20210929193557-e81a3d93ecf6
+## explicit
+golang.org/x/net/html
+golang.org/x/net/html/atom
